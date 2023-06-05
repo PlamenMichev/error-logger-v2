@@ -32,5 +32,11 @@
   "actionHistory": "Action history",
   "stackTrace": "Stack trace",
   "dashboardTitle": "Dashboard",
-  "commingSoon": "Coming soon!"
+  "commingSoon": "Coming soon!",
+  "mostCommonLastHour": "Most common - last hour",
+  "times": "Times",
+  "mostCommonLastMonth": "Most common - last month",
+  "mostCommonErrorsTitle": "Most common errors",
+  "errorTypesTitle": "Error occurrence",
+  "moreThanLastWeek": "(+43%) than last week"
 }

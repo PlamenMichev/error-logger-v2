@@ -32,5 +32,11 @@
   "actionHistory": "Handlingshistorie",
   "stackTrace": "Stakspor",
   "dashboardTitle": "Dashboard",
-  "commingSoon": "Kommer snart!"
+  "commingSoon": "Kommer snart!",
+  "mostCommonLastHour": "Mest almindelige - sidste time",
+  "times": "Gange",
+  "mostCommonLastMonth": "Mest almindelige - sidste måned",
+  "mostCommonErrorsTitle": "De mest almindelige fejl",
+  "errorTypesTitle": "Fejlforekomst",
+  "moreThanLastWeek": "(+43 %) end sidste uge"
 }
