@@ -1,0 +1,36 @@
+{
+  "loginHeader": "Sign in to VF support",
+  "loginTitle": "Login",
+  "navigation": {
+    "dashboard": "Dashboard",
+    "errors": "Errors",
+    "statistics": "Statistics",
+    "logout": "Log out"
+  },
+  "errorsListTitle": "Errors list",
+  "errorsList": {
+    "errorCode": "Error Code",
+    "description": "Short Description",
+    "user": "User",
+    "date": "Date"
+  },
+  "noData": "No data",
+  "statisticsTitle": "Statistics",
+  "tabs": {
+    "occurrence": "Error occurrence",
+    "common": "Most common errors",
+    "errorType": "Error type"
+  },
+  "report": "Report in Jira",
+  "contactUser": "Contact User",
+  "developer": "Contact developer",
+  "thanAverage": "than average",
+  "lastHour": "Last hour",
+  "thanLastWeek": "than last week",
+  "errorDetails": "Error Details",
+  "errorAppearedTo": "User error accrued to",
+  "actionHistory": "Action history",
+  "stackTrace": "Stack trace",
+  "dashboardTitle": "Dashboard",
+  "commingSoon": "Coming soon!"
+}

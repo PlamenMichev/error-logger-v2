@@ -1,0 +1,36 @@
+{
+  "loginHeader": "Log ind på VF support",
+  "loginTitle": "Log ind",
+  "navigation": {
+    "dashboard": "Dashboard",
+    "errors": "Fejl",
+    "statistics": "Statistikker",
+    "logout": "LLog ud"
+  },
+  "errorsListTitle": "Fejlliste",
+  "errorsList": {
+    "errorCode": "Fejlkode",
+    "description": "Kort beskrivelse",
+    "user": "Bruger",
+    "date": "Dato"
+  },
+  "noData": "Ingen data",
+  "statisticsTitle": "Statistikker",
+  "tabs": {
+    "occurrence": "Fejlforekomst",
+    "common": "Mest almindelige fejl",
+    "errorType": "Fejltype"
+  },
+  "report": "Beretning i Jira",
+  "contactUser": "Kontakt bruger",
+  "developer": "Kontakt udvikler",
+  "thanAverage": "end gennemsnittet",
+  "lastHour": "Sidste time",
+  "thanLastWeek": "end i sidste uge",
+  "errorDetails": "Fejldetaljer",
+  "errorAppearedTo": "Brugerfejl opstod",
+  "actionHistory": "Handlingshistorie",
+  "stackTrace": "Stakspor",
+  "dashboardTitle": "Dashboard",
+  "commingSoon": "Kommer snart!"
+}
